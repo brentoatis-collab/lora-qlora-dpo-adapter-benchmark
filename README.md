@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Comparing efficient adaptation methods for model quality, cost, and deployment tradeoffs.
+
 # Week 03 — Adapter Sprint
 
 **LoRA/QLoRA instruction tuning and DPO under a 15 GB GPU memory ceiling**
